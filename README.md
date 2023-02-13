@@ -1,6 +1,6 @@
 # lamponescu.lol
 Doar un site despre anul scolar!
 
-# Cel mai nou update! = 04.10.22
+# Cel mai nou update! = 13.02.23
 Noua pagina web :)!
 
